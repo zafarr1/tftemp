@@ -2,9 +2,6 @@
 
 region               = "us-east-1"
 project_name         = "tf1"
-key_name             = "mbkeys"
-db_username          = "admin"
-db_password          = "Password12345"
 
 vpc_cidr             = "10.0.0.0/16"
 public_subnet_a_cidr = "10.0.1.0/24"
